@@ -64,9 +64,6 @@ Me interesa especialmente el **desarrollo backend** y la **integración de bases
     <td align="center"><img src="https://img.shields.io/badge/wireguard-%2388171A.svg?style=plastic&logo=wireguard&logoColor=white" alt="Wireguard"/></td>
     <td align="center"><img src="https://img.shields.io/badge/XFCE-%232284F2.svg?style=plastic&logo=xfce&logoColor=white" alt="XFCE"/></td>
   </tr>
-  <tr>
-    <td colspan="8" align="center"><img src="https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white" alt="Unity"/></td>
-  </tr>
 </table>
 
 ---
