@@ -13,50 +13,63 @@ Me interesa especialmente el **desarrollo backend** y la **integración de bases
 
 ## 💻 Tecnologías utilizadas
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=plastic&logo=blazor&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
-![Drupal](https://img.shields.io/badge/drupal-%230678BE.svg?style=plastic&logo=drupal&logoColor=white)
-![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=plastic&logo=joomla&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
-![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF)
-![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=plastic&logo=inkscape&logoColor=080A13)
-![Krita](https://img.shields.io/badge/Krita-203759?style=plastic&logo=krita&logoColor=EEF37B)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white)
-![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=plastic&logo=pi-hole&logoColor=white)
-![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=plastic&logo=Prezi&logoColor=white)
-![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=plastic&logo=wireguard&logoColor=white)
-![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=plastic&logo=xfce&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white)
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="CSS3"/></td>
+    <td><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5"/></td>
+    <td><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white" alt="Java"/></td>
+    <td><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/></td>
+    <td><img src="https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white" alt="LaTeX"/></td>
+    <td><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white" alt="Markdown"/></td>
+    <td><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white" alt="PHP"/></td>
+    <td><img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" alt="Python"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white" alt="Ruby"/></td>
+    <td><img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white" alt="Bash"/></td>
+    <td><img src="https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white" alt="Azure"/></td>
+    <td><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" alt="AWS"/></td>
+    <td><img src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=plastic&logo=blazor&logoColor=white" alt="Blazor"/></td>
+    <td><img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white" alt="Bootstrap"/></td>
+    <td><img src="https://img.shields.io/badge/drupal-%230678BE.svg?style=plastic&logo=drupal&logoColor=white" alt="Drupal"/></td>
+    <td><img src="https://img.shields.io/badge/joomla-%235091CD.svg?style=plastic&logo=joomla&logoColor=white" alt="Joomla"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white" alt="NodeJS"/></td>
+    <td><img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white" alt="WordPress"/></td>
+    <td><img src="https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white" alt="Apache"/></td>
+    <td><img src="https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white" alt="Nginx"/></td>
+    <td><img src="https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white" alt="MariaDB"/></td>
+    <td><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white" alt="MySQL"/></td>
+    <td><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white" alt="Postgres"/></td>
+    <td><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white" alt="SQLite"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white" alt="After Effects"/></td>
+    <td><img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white" alt="Photoshop"/></td>
+    <td><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white" alt="Blender"/></td>
+    <td><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white" alt="Figma"/></td>
+    <td><img src="https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF" alt="Gimp"/></td>
+    <td><img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=plastic&logo=inkscape&logoColor=080A13" alt="Inkscape"/></td>
+    <td><img src="https://img.shields.io/badge/Krita-203759?style=plastic&logo=krita&logoColor=EEF37B" alt="Krita"/></td>
+    <td><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white" alt="Pandas"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white" alt="Arduino"/></td>
+    <td><img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black" alt="Cisco"/></td>
+    <td><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white" alt="Docker"/></td>
+    <td><img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white" alt="Grafana"/></td>
+    <td><img src="https://img.shields.io/badge/pihole-%2396060C.svg?style=plastic&logo=pi-hole&logoColor=white" alt="Pi-Hole"/></td>
+    <td><img src="https://img.shields.io/badge/Prezi-%23000000.svg?style=plastic&logo=Prezi&logoColor=white" alt="Prezi"/></td>
+    <td><img src="https://img.shields.io/badge/wireguard-%2388171A.svg?style=plastic&logo=wireguard&logoColor=white" alt="Wireguard"/></td>
+    <td><img src="https://img.shields.io/badge/XFCE-%232284F2.svg?style=plastic&logo=xfce&logoColor=white" alt="XFCE"/></td>
+  </tr>
+  <tr>
+    <td colspan="8"><img src="https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white" alt="Unity"/></td>
+  </tr>
+</table>
 
 ---
-
 ## 📁 Proyecto destacado
 
 ### 🔧 [Pasarela de red con dnsmasq + ArpON](https://github.com/discentepermanente/PasarelaDeRedDNSMasq)
